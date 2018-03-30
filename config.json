@@ -1,0 +1,8 @@
+{
+    "darksky": {
+        "key": "YOUR_CURRENT_DARKSKY_KEY_HERE"
+    },
+    "discord": {
+        "token": "DISCORD_APP_TOKEN_HERE"
+    }
+}
