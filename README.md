@@ -1,3 +1,5 @@
+<img src="./weather-icons.png"/>
+
 # discordWeatherApp-node.js
 
 1. add darksky key to config.json
