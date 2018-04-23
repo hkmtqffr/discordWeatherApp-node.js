@@ -2,6 +2,7 @@
 
 # discordWeatherApp-node.js
 
-1. add darksky key to config.json
-2. add discord application token to config.json
-3. npm start
+1. npm i
+2. add darksky key to config.json
+3. add discord application token to config.json
+4. npm start
